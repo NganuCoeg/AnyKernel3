@@ -5,7 +5,7 @@ BRANCH := $(shell git -C .. rev-parse --abbrev-ref HEAD)
 NAME := ${KERNAME}-$(DEVICE)
 DATE := $(shell date "+%Y%m%d")
 ZIP := $(NAME)-$(DATE).zip
-EXCLUDE := Makefile *.git* *.jar* *placeholder* *.md*
+EXCLUDE := Makefile *.git* *.jar* *placeholder* *.md* *.zip
 
 normal: $(ZIP)
 
