@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=StrayDogs by MataneTjok
+kernel.string=ProjectDedMen by MataneTjok
 do.devicecheck=0
 do.modules=0
 do.systemless=1
