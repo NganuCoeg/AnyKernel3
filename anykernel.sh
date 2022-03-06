@@ -5,18 +5,16 @@
 # begin properties
 properties() { '
 kernel.string=MataneTjok kernel
-do.devicecheck=0
+maintainer.string1=by Rendraa @MataneTjok
+do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=universal
-device.name2=
-device.name3=
-device.name4=
-device.name5=
-supported.versions=
-supported.patchlevels=
+device.name1=RMX1911
+device.name2=RMX1925
+device.name3=RMX2030
+supported.versions=9-12
 '; } # end properties
 
 # shell variables
