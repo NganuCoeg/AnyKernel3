@@ -13,7 +13,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX1911
 device.name2=RMX1925
-device.name3=RMX2030
+device.name3=RMX1927
+device.name4=RMX2030
 supported.versions=9-12
 '; } # end properties
 
